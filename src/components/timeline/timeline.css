@@ -1,0 +1,13 @@
+.timeline {
+  padding: 5px;
+}
+
+.timeline__post-container {
+  margin: auto;
+  width: 100%;
+  max-width: 600px;
+}
+
+.timeline__post {
+  margin: 15px;
+}
