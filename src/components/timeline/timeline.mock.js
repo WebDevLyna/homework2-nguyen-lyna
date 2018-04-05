@@ -2,7 +2,7 @@ export const mockedPosts = [
   {
     id: 1,
     location: 'Toronto, ON',
-    likes: 55,
+    likes: 0,
     owner: {
       name: 'alaboudi',
       avatarUrl: 'https://instagram.fybz1-1.fna.fbcdn.net/vp/294700051612ff4c3cb1f5f934b1b4df/5B2AEA83/t51.2885-15/e35/28429940_2081445072145156_7910717322665394176_n.jpg'
@@ -26,7 +26,7 @@ export const mockedPosts = [
   {
     id: 2,
     location: 'Toronto, ON',
-    likes: 55,
+    likes: 5,
     owner: {
       name: 'stephanieee',
       avatarUrl: 'https://instagram.fybz1-1.fna.fbcdn.net/vp/0901f5c0c14e6aafc5ab6567bc0c5dcf/5B337BE2/t51.2885-15/sh0.08/e35/p640x640/26867732_1779442872074030_2768071787655725056_n.jpg'
@@ -50,7 +50,7 @@ export const mockedPosts = [
   {
     id: 3,
     location: 'Toronto, ON',
-    likes: 55,
+    likes: 10,
     owner: {
       name: 'brobrewskies',
       avatarUrl: 'https://instagram.fybz1-1.fna.fbcdn.net/vp/9417f3919f11899cde86504fc46c7252/5B3D16FF/t51.2885-15/e35/28152747_211082926110129_236304840018362368_n.jpg'
@@ -98,7 +98,7 @@ export const mockedPosts = [
   {
     id: 5,
     location: 'Toronto, ON',
-    likes: 55,
+    likes: 80,
     owner: {
       name: 'castleblog',
       avatarUrl: 'https://instagram.fybz1-1.fna.fbcdn.net/vp/df7f1600538eb6d446d125f3f8f9ac95/5B41CB6A/t51.2885-15/sh0.08/e35/p640x640/28763661_448397752263778_3802886081079148544_n.jpg'

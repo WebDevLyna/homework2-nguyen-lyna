@@ -36,3 +36,24 @@
 .post__comment-form {
   margin: 15px auto;
 }
+
+/* Like/Heart Styles */
+.post__likes button {
+  border: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+}
+.post__likes button:focus {
+  outline: none;
+}
+.post__heart,
+.post__heart-clear {
+  width: 30px;
+  height: auto;
+}
+.post__heart-clear {
+  position: relative;
+  left: 30px;
+  top: 1px;
+}

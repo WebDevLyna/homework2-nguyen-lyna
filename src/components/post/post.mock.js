@@ -15,8 +15,9 @@ const mockComments = [
 
 export const mockPost = {
   location: 'Toronto, ON',
-  likes: 55,
-  owner: 'alaboudi',
+  likes: 11,
+  isLikedByMe: true,
+  owner: 'Lyna',
   imageUrl: 'http://via.placeholder.com/800x200',
   comments: mockComments,
 };
