@@ -1,4 +1,5 @@
 # Assignment 3
+InstaFake like/heart button + increment like numbers
 
 **updateHeart = () function**
 - Using prevState to toggle like image of IG heart
